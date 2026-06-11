@@ -12,3 +12,11 @@
 #     print("You're a minor")
 
 
+students = [
+    ("Abel", 45)
+    ("Sara", 80)
+    ("John", 60)
+    ("Mahi", 30)
+    ("Helen", 90)
+]
+
